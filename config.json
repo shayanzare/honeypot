@@ -1,0 +1,16 @@
+{
+  "port" : "2000",
+  "smtp" : "smtp.gmail.com",
+  "domain" : "localhost",
+  "username" : "usr",
+  "password" : "passwd",
+
+  //email deliver options
+  "from" : "username@gmail.com",
+  "to" : "username@gmail.com",
+
+  //config Telegram
+  //TODO
+  "TOKEN" : "",
+  "chatId" : ""
+}
